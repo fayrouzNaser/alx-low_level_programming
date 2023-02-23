@@ -1,4 +1,5 @@
 #include "main .h"
+#include <stdio.h>
 /**
  * add - adds tow integers and returns the result
  * @a: int to be added to b
